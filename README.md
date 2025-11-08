@@ -4,7 +4,7 @@ Este proyecto es un análisis geoespacial exploratorio (EDA) que mapea la ubicac
 
 ## 💾 Dataset
 
-Se utilizaron dos fuentes de datos, del portal [BA Data](https://data.buenosaires.gob.ar/):
+Se utilizaron dos fuentes de datos, del portal [BA Data](https://catalogo.datos.gba.gob.ar/dataset/):
 
 * **Comunas (comunas.shp):** Un archivo Shapefile que contiene los polígonos (límites geográficos) de las comunas de CABA.
 * **Estaciones Ecobici (nuevas-estaciones-bicicletas-publicas.csv):** Un archivo CSV con información de las estaciones, incluyendo sus coordenadas (`longitud` y `latitud`).
